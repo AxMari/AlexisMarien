@@ -24,6 +24,6 @@ I'm a front-end engineer with 6 years of experience crafting user-friendly, scal
 - Former truck driver turned software engineer 💪
 - Passionate about clean code, good UX, and lifelong learning
 
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/alexisannmarien) | [Portfolio](#) *(optional)*
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/axmarien/)
 
 ---
